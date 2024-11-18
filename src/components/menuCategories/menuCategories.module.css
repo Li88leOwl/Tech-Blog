@@ -1,0 +1,36 @@
+.categoryList{
+    margin-top: 35px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.categoryItem{
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.categoryItem.coding{
+    background-color: #57c4ff31;
+}
+
+.categoryItem.cybersec{
+    background-color: #01eb7631;
+}
+
+.categoryItem.cloud{
+    background-color: #ff8c00;
+}
+
+.categoryItem.gaming{
+    background-color: #8372ff2b;
+}
+.categoryItem.lifestyle{
+    background-color: #fff457f3;
+}
+
+.categoryItem.travel{
+    background-color: #ff7b6c;
+}
