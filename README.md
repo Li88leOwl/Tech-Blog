@@ -3,6 +3,7 @@
 A modern, modular blog platform powered by React and Next.js. Dive into featured posts, explore categories, and get inspired by curated content—all wrapped up in a sleek UI.
 
 ---
+![Blog](https://github.com/user-attachments/assets/30ed2fb8-c5d7-4dee-84d4-b8f5394a7656)
 
 ## 🛠️ Tech Stack
 
